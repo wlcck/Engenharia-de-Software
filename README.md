@@ -49,3 +49,10 @@ O Modelo V propõe uma troca maior com devidos testes trazendo uma garantia de q
 <img width="430" height="358" alt="image" src="https://github.com/user-attachments/assets/f1055574-1357-4065-ad34-404ead8a72f1" />
 
 Pontos negativos os interessados enxergam o que parece ser uma versão operacional mas é só um protótipo, não se considerando qualidade global e nem sua manutenção em longo prazo.  
+
+
+**Modelo Espiral**
+É um gerador de modelos de processos dirigidos a riscos e é utilizado para guiar de melhor forma tendo multiplos envolvidos.
+<img width="435" height="340" alt="image" src="https://github.com/user-attachments/assets/74b3ddb0-7e0e-45cd-bd44-9a53e0b2acb8" />
+
+Ponto negativo: Pode ser difícil de convencer o cliente podendo haver mudanças de valores em cada etapa. Exige especialização na avaliação de riscos.
