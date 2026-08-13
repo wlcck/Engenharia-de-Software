@@ -27,4 +27,14 @@
               - construção
                   - Entrega 
 
-Obs: Nem sempre um desenvolvimento/modelo vai seguir de forma linear; lembrando que pode sr conversado e haver mudanças um exemplo digamos construir mais um quarto. Em um programa fazer algumas mudanças
+Obs: Nem sempre um desenvolvimento/modelo vai seguir de forma linear; lembrando que pode ser conversado e haver mudanças um exemplo digamos construir mais um quarto. Em um programa fazer algumas mudanças
+
+**Modelo Cascata**
+O mais classico segue de forma linear trabalhando muito bem a comunicação.
+- ponto negativo que pode haver demora para entregar o sistema por ter que esperar todas etapas.
+
+**Modelo V**
+<img width="364" height="431" alt="image" src="https://github.com/user-attachments/assets/3d46da7d-4e32-44af-8240-f0c7f5acffb6" />
+
+O Modelo V propõe uma troca maior com devidos testes trazendo uma garantia de qualidade
+- Ainda existe uma demora no processo de entrega
