@@ -7,7 +7,8 @@
 - Tipo de Tijolo
 - Energia
 Ex:
-![Uploading {C1DA363E-E73D-4F05-BC03-F6EC55CB3D60}.png…]()
+![Uploading Captura de tela 2026-08-13 192442.png…]()
+
 
  Engenharia ela e o processo de construção de alguma coisa
   - Objetivo entregar algo de qualidade 
