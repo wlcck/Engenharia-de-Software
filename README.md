@@ -7,7 +7,8 @@
 - Tipo de Tijolo
 - Energia
 Ex:
-![Uploading Captura de tela 2026-08-13 192442.png…]()
+<img width="916" height="715" alt="Captura de tela 2026-08-13 192442" src="https://github.com/user-attachments/assets/e851bcf7-1662-4cd3-a31f-98ced673e079" />
+
 
 
  Engenharia ela e o processo de construção de alguma coisa
