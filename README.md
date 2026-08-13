@@ -48,4 +48,4 @@ O Modelo V propõe uma troca maior com devidos testes trazendo uma garantia de q
 
 <img width="430" height="358" alt="image" src="https://github.com/user-attachments/assets/f1055574-1357-4065-ad34-404ead8a72f1" />
 
-Pontos negativos os interessados enxergam o que parece ser uma versão operacional mas é so um protótipo, nao se considerando qualidade global e nem sua manutenção em longo prazo. 
+Pontos negativos os interessados enxergam o que parece ser uma versão operacional mas é só um protótipo, não se considerando qualidade global e nem sua manutenção em longo prazo.  
