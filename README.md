@@ -1,3 +1,13 @@
+**Desenvolvimento Ágil**
+Todo modelo ágil tem que ter um nível de flexibilidade!
+Toda metodologia ágil ela fraciona a entrega tendo uma entrega mais rápido, assim segue o gráfico o custo é maior inicialmente.
+Tendo comunicação constante no processo com o cliente
+
+<img width="939" height="382" alt="{200FDE8E-309B-49A5-89BC-3F3655A35714}" src="https://github.com/user-attachments/assets/38337f9b-009c-4025-8a51-019c58cd20f9" />
+
+
+
+
 **O que é engenharia, dado um exemplo de construir uma casa**
 *3 Quartos*
 *Suite*
@@ -56,3 +66,4 @@ Pontos negativos os interessados enxergam o que parece ser uma versão operacion
 <img width="435" height="340" alt="image" src="https://github.com/user-attachments/assets/74b3ddb0-7e0e-45cd-bd44-9a53e0b2acb8" />
 
 Ponto negativo: Pode ser difícil de convencer o cliente podendo haver mudanças de valores em cada etapa. Exige especialização na avaliação de riscos.
+
