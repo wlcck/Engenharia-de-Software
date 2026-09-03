@@ -1,4 +1,4 @@
-**Trabalho avião por ciclos**
+- Trabalho avião por ciclos
 2 a 3 min de comunicação
 7 a 8 min de desenvolvimento
 
