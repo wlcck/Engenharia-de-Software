@@ -1,12 +1,12 @@
 ## Trabalho avião por ciclos
-2 a 3 min de comunicação
-7 a 8 min de desenvolvimento
+- 2 a 3 min de comunicação
+- 7 a 8 min de desenvolvimento
 
-avião mais de manobra!
-avião ponta dobrada
-avião tem que girar 
-assas retas, com corte!
-meio tigrado
+- avião mais de manobra!
+- avião ponta dobrada
+- avião tem que girar 
+- assas retas, com corte!
+- meio tigrado
 
 <img width="1126" height="1227" alt="WhatsApp Image 2026-09-03 at 19 56 08" src="https://github.com/user-attachments/assets/275a3507-b091-4aca-a9f4-f5ebcf690474" />
 
