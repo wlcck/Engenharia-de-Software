@@ -2,12 +2,18 @@
 ## Diagrama de atividades Maquina de Estado
 - U.M.L Linguagem Unificada  de Modelagem
 - CASE
+- Ação não pode ter duas saída dela - mas chegar pode 
+- Sempre tem que chegar no final 
 <img width="952" height="357" alt="{8D3D95B4-0D09-4858-BA01-D66E51262B1F}" src="https://github.com/user-attachments/assets/cf7e427d-13b4-4609-9d25-6930f1439e8e" />
 <img width="856" height="350" alt="{59A56B97-970D-45E0-A007-000AD2B20F73}" src="https://github.com/user-attachments/assets/cf5d0a8c-674f-4a8c-855f-9f39c77ecf2a" />
 <img width="893" height="391" alt="{C83C1832-0F04-4B33-BD19-FCB6337321FC}" src="https://github.com/user-attachments/assets/c41e5392-37fa-48de-b0b6-58bf6ea208af" />
 <img width="975" height="423" alt="{6B3069BE-BBAA-48DC-A40F-252D0EBEABC7}" src="https://github.com/user-attachments/assets/d5c49b63-3a88-47e2-acf3-3cde926ad982" />
 <img width="957" height="427" alt="{CDE9F916-6DC2-4D53-930C-80DD6AE4803C}" src="https://github.com/user-attachments/assets/68b46222-8d5c-44f7-b77f-84b8761e7fdb" />
 <img width="918" height="375" alt="{FE9B09D8-CF3F-4A72-BD5D-EA01CA02CC12}" src="https://github.com/user-attachments/assets/70a88d67-4402-4700-99ba-d7d9f934ab46" />
+<img width="979" height="431" alt="{10CBC81D-865F-43D9-8B8B-27DC3118AEB9}" src="https://github.com/user-attachments/assets/2c6222ac-8ebc-4387-902c-ad2dd824b8ef" />
+<img width="919" height="386" alt="{D4D3B57B-17C6-4BB4-9482-15E2F154A94D}" src="https://github.com/user-attachments/assets/794abd4f-7dbd-453d-90ba-085fdf6c95b5" />
+
+
 
 
 
