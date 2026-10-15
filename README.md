@@ -1,3 +1,24 @@
+## 15/10
+## Diagrama de Atividade 
+O processo começa quando um estudante acessa o aplicativo, escolhe um lanche e informa o local onde deseja recebê-lo.
+O sistema verifica se o lanche está disponível na cantina.
+Caso o produto esteja indisponível, o aplicativo informa a situação e permite que o estudante escolha outro lanche ou cancele o pedido. Caso o estudante escolha outro produto, uma nova verificação de disponibilidade deverá ser realizada.
+Quando o produto está disponível, o sistema verifica se existe algum robô livre e com bateria suficiente para realizar a entrega.
+Se não houver robôs disponíveis, o estudante é informado e o processo é encerrado.
+Caso exista um robô disponível, o aplicativo solicita o pagamento do pedido.
+Se o pagamento não for aprovado, o pedido é cancelado. Caso contrário, o sistema confirma o pedido e reserva o robô responsável pela entrega.
+A partir desse momento, duas atividades acontecem simultaneamente:
+- A cantina prepara o lanche e embala o pedido.
+- O sistema calcula a melhor rota até o destino e envia as informações de navegação ao robô.
+Após a conclusão das duas atividades, o robô coleta o pedido na cantina e inicia seu deslocamento pelo campus.
+Durante o percurso, o robô verifica continuamente se existem obstáculos em seu caminho. Sempre que um obstáculo for identificado, o sistema deverá recalcular a rota para permitir que o robô continue a entrega.
+Quando o robô chega ao destino, o sistema envia um código de retirada ao estudante.
+O estudante informa o código no painel do robô, e o sistema verifica se ele está correto.
+Se o código estiver correto, o compartimento é aberto, o estudante retira seu pedido e o sistema registra a entrega como concluída.
+Caso o código esteja incorreto, o compartimento permanece bloqueado e uma notificação é encaminhada à equipe de suporte.
+Por fim, independentemente do resultado da tentativa de retirada, o robô retorna à sua base, encerrando o processo.
+
+
 ## 08/10
 ## Diagrama de atividades Maquina de Estado
 - U.M.L Linguagem Unificada  de Modelagem
