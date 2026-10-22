@@ -1,3 +1,56 @@
+## 22/10
+## Diagrama de Estado
+<img width="652" height="182" alt="{B75D63B8-A139-49DB-9C02-0459C7A3F9BE}" src="https://github.com/user-attachments/assets/6bd402de-24a5-4b69-8907-e120e2ad86a2" />
+<img width="926" height="347" alt="{473B3279-E014-406A-8C13-BE7677137EFA}" src="https://github.com/user-attachments/assets/99945762-ecfb-46ba-8a6e-b01331bb9eef" />
+<img width="1032" height="360" alt="{E682AAF7-E1C1-4C23-A8E2-B27FDC1A56E8}" src="https://github.com/user-attachments/assets/e68b528d-7bd4-487a-8482-60b42e783ba3" />
+<img width="978" height="381" alt="{B2C2A03F-C9ED-4A90-AA4E-3C246A024B89}" src="https://github.com/user-attachments/assets/794e8d16-e944-4ef2-b839-1044fbdd7446" />
+<img width="940" height="307" alt="{9300295A-2E9B-4DA0-B6EC-2409309B03CC}" src="https://github.com/user-attachments/assets/4c31b224-9ca9-4bca-98e6-62ccc4a1de53" />
+<img width="906" height="275" alt="{A923EF63-423F-47A3-9F63-D93318A59E21}" src="https://github.com/user-attachments/assets/30e85e57-df38-4336-bd3d-f9cc70c0f908" />
+<img width="940" height="231" alt="{A420348B-11E1-4160-AB74-487CF8FBA78F}" src="https://github.com/user-attachments/assets/bb73e81b-ec4d-476f-82f6-bc0515e34991" />
+<img width="1145" height="423" alt="{5A54DB43-998D-458D-B107-A27143BE303F}" src="https://github.com/user-attachments/assets/21b3cecb-5c71-4ed1-8bfe-fb0523387e85" />
+<img width="1075" height="398" alt="{54229814-84AB-4272-A284-B71EFA36114C}" src="https://github.com/user-attachments/assets/d6d64add-6747-46b3-82ee-48d9e30d04be" />
+<img width="949" height="381" alt="{C3BAD911-4156-43B5-8917-3FBB4F124A35}" src="https://github.com/user-attachments/assets/986d13ce-1fbb-4e30-a31d-581435073ce3" />
+<img width="967" height="401" alt="{4BBECB62-3F04-4433-B427-529BB936A249}" src="https://github.com/user-attachments/assets/8fff0c85-f4f8-42be-82e5-d70ea7bd32d9" />
+<img width="944" height="363" alt="{50856ABD-47DC-4B2C-AA59-2826D62A9665}" src="https://github.com/user-attachments/assets/763de101-3ad3-4125-85c5-72d3627b8f3d" />
+<img width="767" height="343" alt="{98E0D472-B008-4642-B9B0-C512FECAEDBD}" src="https://github.com/user-attachments/assets/3620ec71-942c-4a5e-a58d-d11448149b9c" />
+<img width="975" height="351" alt="{92560F11-A764-4705-AECA-F73B0FEDCD80}" src="https://github.com/user-attachments/assets/9ce3cc44-dc86-4621-b16b-912e0043aa21" />
+<img width="952" height="374" alt="{C753FF65-7E99-4F2D-8C75-4D7E69AAFACD}" src="https://github.com/user-attachments/assets/0e648217-a808-427b-9ca4-78e611c9e50c" />
+<img width="985" height="414" alt="{E234998D-5669-4671-9633-624AB49FEB89}" src="https://github.com/user-attachments/assets/faad095e-b6a8-4639-8968-fd307db6a255" />
+<img width="977" height="359" alt="{3AB43DB7-02D1-4DE2-8DE8-84B3A8431730}" src="https://github.com/user-attachments/assets/141b0d8c-7b2f-4428-90f8-f324a164e034" />
+<img width="902" height="407" alt="{8B6A71CE-A60C-45C3-86E4-D11010B0E7A4}" src="https://github.com/user-attachments/assets/82df650d-2e2c-4baa-bcf9-fbd116cd4581" />
+<img width="945" height="394" alt="{EF0ACB1A-F63A-459F-ADB2-2F7BEC2F8D4B}" src="https://github.com/user-attachments/assets/084da27a-e63a-497f-8f3e-dd0ef00ed975" />
+<img width="969" height="402" alt="{A89C663A-824D-4A96-AB78-095268FFF610}" src="https://github.com/user-attachments/assets/159b6161-aba0-40b4-99d7-587618a5464f" />
+<img width="846" height="398" alt="{8ED93E0B-A986-4CCA-B143-69E7B446A990}" src="https://github.com/user-attachments/assets/77f7619b-56e7-43e1-8dde-a4951ac3eaa6" />
+<img width="810" height="376" alt="{A456F378-173E-4824-80D8-008C3EF770A4}" src="https://github.com/user-attachments/assets/e96441c4-3bcd-4dbb-ac12-ca9dfb82aae7" />
+<img width="1019" height="399" alt="{73B18303-F0B6-4C0B-A897-82C30964E088}" src="https://github.com/user-attachments/assets/ddac3e5a-634c-4753-a2a6-b06b7d7d0cd4" />
+<img width="870" height="407" alt="{C32D39FB-12F0-44F2-92C2-102504CFA4AE}" src="https://github.com/user-attachments/assets/f9f1d57d-1d2c-42f7-8636-dbbba1cfe860" />
+<img width="1064" height="511" alt="{09D53D77-C288-4D41-93D8-1E85B51D10A2}" src="https://github.com/user-attachments/assets/2b457eb3-cccf-44b3-8f5f-628bee0434cb" />
+<img width="887" height="375" alt="{DAB9ADA7-90ED-4905-BD15-D0505E119082}" src="https://github.com/user-attachments/assets/86b10de1-89d4-4637-a65d-bff9b8a24990" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 15/10
 ## Diagrama de Atividade 
 O processo começa quando um estudante acessa o aplicativo, escolhe um lanche e informa o local onde deseja recebê-lo.
