@@ -1,3 +1,9 @@
+## 29/10
+## Modelo de caso de Uso
+- Realizar Exercicios praticos referente ao conteudo
+<img width="1285" height="645" alt="{F862B89B-42E5-423D-9F2D-7E1B3EC169DC}" src="https://github.com/user-attachments/assets/d5960bf5-7b6d-4a32-9713-fa5ee671ca75" />
+
+
 ## 22/10
 ## Diagrama de Estado
 <img width="652" height="182" alt="{B75D63B8-A139-49DB-9C02-0459C7A3F9BE}" src="https://github.com/user-attachments/assets/6bd402de-24a5-4b69-8907-e120e2ad86a2" />
